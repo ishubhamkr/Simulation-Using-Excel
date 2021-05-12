@@ -4,7 +4,7 @@
         <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" width="40"/>
       </a>
 </td>
-
+Excel is one of the most commonly used means to create data models and run simulations.
 ## Using Excel simulating 
 - [Finding value of pi](https://github.com/ishubhamkr/Simulation-Using-Excel/blob/main/value%20of%20pi.xlsx)
 - [Area under the curve](https://github.com/ishubhamkr/Simulation-Using-Excel/blob/main/Area%20under%20the%20curve.xlsx)
