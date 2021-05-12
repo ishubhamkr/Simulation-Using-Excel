@@ -5,7 +5,7 @@
       </a>
 </td>
 
-## Using Excel simulating 
+## Using Excel simulation of:
 - [Finding value of pi](https://github.com/ishubhamkr/Simulation-Using-Excel/blob/main/value%20of%20pi.xlsx)
 - [Area under the curve](https://github.com/ishubhamkr/Simulation-Using-Excel/blob/main/Area%20under%20the%20curve.xlsx)
 - [Double integration](https://github.com/ishubhamkr/Simulation-Using-Excel/blob/main/Double%20integration.xlsx)
